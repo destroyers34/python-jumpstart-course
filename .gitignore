@@ -58,3 +58,5 @@ docs/_build/
 target/
 
 \.idea/
+
+04_journal_app/journals/
