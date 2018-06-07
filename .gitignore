@@ -60,3 +60,5 @@ target/
 \.idea/
 
 04_journal_app/journals/
+
+05_weather_app/weather_py3/

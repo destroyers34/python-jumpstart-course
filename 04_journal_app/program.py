@@ -47,4 +47,7 @@ def add_entry(data):
     journal.add_entry(text, data)
 
 
-main()
+# print(__file__)
+# print(__name__)
+if __name__ == '__main__':
+    main()
