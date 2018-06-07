@@ -5,6 +5,7 @@ import collections
 WeatherReport = collections.namedtuple('WeatherReport',
                                        'cond, temp, scale, loc')
 
+
 def main():
     print_header()
 
