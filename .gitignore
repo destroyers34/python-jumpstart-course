@@ -62,3 +62,7 @@ target/
 04_journal_app/journals/
 
 05_weather_app/weather_py3/
+
+venv/
+
+06_lolcat/cat_pictures/
